@@ -11,10 +11,10 @@ My core competencies include JavaScript, Typescript, REST APIs, .
 ## My Tech Stack👨‍💻
 
 ###### Frontend
-Html, CSS, Sass, Javascript, Typescript, Tailwind, React.js , Next.js, Rest APIs
+Html, CSS, Sass, Javascript, Typescript, Tailwind, React.js , Next.js.
 
 ###### Backend
-Node.js, Express.js , MongoDB , Ethers.js.
+Node.js, Express.js , MongoDB , Ethers.js,, Rest APIs.
 
 ###### Programming
 Javascript, Solidity, C , C++
