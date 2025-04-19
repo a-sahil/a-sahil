@@ -23,7 +23,7 @@ Javascript, Solidity, C , C++
 Ethereum, Solana
 
 ###### Tools/SDKs I have worked with:
-IPFS, Chainlink , Remix , Hedera
+IPFS, Chainlink , Remix , Hedera, Meteora dlmm sdk.
 
 
 
