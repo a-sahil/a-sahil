@@ -44,6 +44,7 @@ The project offers peer-to-peer land and machinery leasing, cross-chain land lea
 - supeWallet </br>
 - Instruere </br>
 - AgroBuddy </br>
+- torq </br>
 
 
 ###### Web2 Projects
