@@ -46,6 +46,7 @@ The project offers peer-to-peer land and machinery leasing, cross-chain land lea
 - AgroBuddy </br>
 - SplitWise </br>
 - LiquidX </br>
+- CoinPilot </br>
 
 
 ###### Web2 Projects
