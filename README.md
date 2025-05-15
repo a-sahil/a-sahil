@@ -34,6 +34,7 @@ IPFS, Chainlink , Remix , Hedera, Meteora dlmm SDK , elizaOS Framework.
 
 ###### Best Projects
 - [supeWallet](https://github.com/a-sahil/supeWallet) - LLM-powered Web3 wallet enabling cross-chain transactions and asset management through natural language prompts. </br>
+- [LiquidX](https://github.com/a-sahil/LiquidX) -  LiquidX is a seamless platform for liquidity provisioning on Solana DEXes, directly from Telegram! </br>
 - [Instruere](https://github.com/a-sahil/instruere-APTOS) -  custom blockchain platform protocol that utilizes TPU-enabled devices to train AI models as a consensus mechanism via
 federated learning </br>
 - [AgroBuddy](https://github.com/a-sahil/agroBuddy) - AgroBuddy, the cross-chain decentralized application revolutionizing agriculture by empowering farmers with tools designed to enhance the efficiency, profitability, and sustainability of farming operations.</br> 
